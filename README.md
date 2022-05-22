@@ -53,7 +53,7 @@ SHUD's design is based on a concise representation of a watershed and river basi
 **Step 0: download the latest source code**
 
 ```
-git clone git@github.com:SHUD-System/SHUD.git
+git clone git@github.com:GISerGJL/SHUD.git
 cd SHUD
 ```
 
